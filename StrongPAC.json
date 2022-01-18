@@ -2405,12 +2405,12 @@
             "homeState" : "Mississippi",
             "ratPot" : "90",
             "prefPos" : "QB"
-            "prefPlaybook: : "Spread"
+            "prefPlaybook:" : "Spread"
             "hometown" : "Gilmer",
             "ratTalent" : "90",
             "baselinePrestige" : "60",
             "coachingAbility" : "90",
-            "name" : "John Donovan",
+            "name" : "Tavaris Jackson",
             "contractYear" : "1"
           },
           "defCoordinator" : {
@@ -2426,10 +2426,10 @@
             "ratTalent" : "90",
             "baselinePrestige" : "60",
             "coachingAbility" : "90",
-            "name" : "Pete Kwiatkowski",
+            "name" : "Jimmy Lake",
             "contractYear" : "1"
           },
-          "rival" : ["UO", "WSU"],
+          "rival" : ["UO", "WSU", "USC", "STAN"],
           "rivalryNames" : {
             "WSU": "Apple Cup",
             "UO": "Border War"
